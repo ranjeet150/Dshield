@@ -26,3 +26,4 @@ services/indexer/data/
 
 # OS
 .DS_Store
+config.bat
